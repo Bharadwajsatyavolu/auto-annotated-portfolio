@@ -7,16 +7,15 @@ author: content/data/team/doris-soto.json
 excerpt: >-
   Devised and executed acquisition, processing, and pricing strategies,
   resulting in a remarkable 25% surge in profitability for Essential Oils.
-  <br>Established collaborative ties with organic farmers to broaden product
-  sourcing avenues by and maintain eco-friendly supply chains.<br>Led targeted
+  Established collaborative ties with organic farmers to broaden product
+  sourcing avenues by and maintain eco-friendly supply chains.Led targeted
   promotional initiatives such as sourcing Tulasi Ganapathi, leading to a
-  notable upsurge in sales revenue.<br>Analyzed critical KPIs, facilitating
+  notable upsurge in sales revenue.Analyzed critical KPIs, facilitating
   operational optimization and efficiency enhancement by through data-driven
-  insights.<br>Implemented streamlined vendor management protocols, driving a
-  15% reduction in procurement costs and strengthening supplier
-  relationships.<br>Positioned SHIKARA as an industry frontrunner in the
-  essential oils domain, earning acclaim for innovation and stringent quality
-  standards.
+  insights.Implemented streamlined vendor management protocols, driving a 15%
+  reduction in procurement costs and strengthening supplier
+  relationships.Positioned SHIKARA as an industry frontrunner in the essential
+  oils domain, earning acclaim for innovation and stringent quality standards.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
