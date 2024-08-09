@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: About Me
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
