@@ -2,7 +2,7 @@
 type: PostLayout
 title: Supreme netsoft pvt ltd
 colors: colors-a
-date: '2024-02-01'
+date: '2017-01-01'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
