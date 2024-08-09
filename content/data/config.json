@@ -85,7 +85,7 @@
             "address": "2-17-126/77 raghavendra nagar colony, uppal, Hyderabad.",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Bharadwaj Powered by [Netlify](https://www.netlify.com/platform/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
