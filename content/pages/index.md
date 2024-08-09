@@ -86,6 +86,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Education
+    title: Education
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
