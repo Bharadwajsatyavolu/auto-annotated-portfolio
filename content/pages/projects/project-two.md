@@ -4,7 +4,7 @@ title: 'Mechanical Engineering '
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: 'I have graduated from Ace engineering college from 2012 to 2016 '
+description: 'I have graduated from Ace engineering college. 2012 to 2016 '
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
