@@ -90,7 +90,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Experience
+    subtitle: ''
     showFeaturedImage: false
     actions:
       - type: Link
