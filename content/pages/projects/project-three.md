@@ -5,9 +5,9 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Marketing was a very interesting subject for me so i opted for marketing as my
+  major and done multiple case studies on different markets as a part of my post
+  graduation
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
