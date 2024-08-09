@@ -128,6 +128,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Experience
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
