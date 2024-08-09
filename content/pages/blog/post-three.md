@@ -4,7 +4,7 @@ title: Interships
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: CodeTantra
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
