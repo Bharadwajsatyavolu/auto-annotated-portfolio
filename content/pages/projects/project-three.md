@@ -7,7 +7,7 @@ client: Awesome client
 description: >-
   Marketing was a very interesting subject for me so i opted for marketing as my
   major and done multiple case studies on different markets as a part of my post
-  graduation
+  graduation.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
