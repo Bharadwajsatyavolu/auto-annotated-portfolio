@@ -4,7 +4,11 @@ title: 'Mechanical Engineering '
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: 'I have graduated from Ace engineering college.                  2012 to 2016  '
+description: >-
+  I have graduated from Ace engineering college. One of my interesting projects
+  was about impulsive and reactive turbines manufactured at BHEL for hydro power
+  generation. As my final year project we manufactured and studied dry screw
+  vacuum pump.     
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
