@@ -5,22 +5,22 @@ colors: colors-a
 date: '2017-01-01'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  •Initiated a pioneering project to address the acute manpower shortage in
+  Initiated a pioneering project to address the acute manpower shortage in
   coconut harvesting in AP state, introducing a cutting-edge Drone solution that
-  boosted harvesting efficiency.•Engineered a cost-effective Drone Prototype,
+  boosted harvesting efficiency.Engineered a cost-effective Drone Prototype,
   curtailing operational expenses by while amplifying productivity by
-  25%.•Conducted in-depth analysis and documented user requirements, optimizing
+  25%.Conducted in-depth analysis and documented user requirements, optimizing
   processes and elevating customer satisfaction by 15% through bespoke
-  solutions.•Cooperated cross-functionally to gain insights into customer needs
+  solutions.Cooperated cross-functionally to gain insights into customer needs
   leading to the development of comprehensive user requirement documentation
-  that markedly improved project outcomes.•Led a customer-centric approach by
+  that markedly improved project outcomes.Led a customer-centric approach by
   mapping and optimizing existing processes, resulting in a notable reduction in
-  turnaround time.•Leveraged data-driven insights to identify emerging market
+  turnaround time.Leveraged data-driven insights to identify emerging market
   trends, contributing to a significant surge in revenue generation
-  opportunities.•Established strategic partnerships with key stakeholders in the
+  opportunities.Established strategic partnerships with key stakeholders in the
   agricultural sector, facilitating the seamless integration of drone technology
-  into existing harvesting practices.•Spearheaded strategic partnerships with
-  key stakeholders, fostering collaboration and opening new avenues for business
+  into existing harvesting practices.Spearheaded strategic partnerships with key
+  stakeholders, fostering collaboration and opening new avenues for business
   expansion.
 featuredImage:
   type: ImageBlock
