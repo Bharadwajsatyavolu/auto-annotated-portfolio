@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Mechanical Engineering '
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ACE ENGINEERING COLLEGE
 description: >-
   I have graduated from Ace engineering college. One of my interesting projects
   was about impulsive and reactive turbines manufactured at BHEL for hydro power
