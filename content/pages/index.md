@@ -14,9 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I am a Nature Lover, Management Professional, Mechanical Engineer,
-      Developer, Market Analyst, Digital Marketer, Audio and Visual Content
-      Creator, Founder, Story Writer and an Enthusiastic learner living life to
+      I am a Nature Lover,Management Professional,Mechanical Engineer,
+      Developer,Market Analyst,Digital Marketer,Audio and Visual Content
+      Creator,Founder,Story Writer and an Enthusiastic learner living life to
       absorb as much as possible from the incredible achievements and
       intelligence of humankind.
     subtitle: >-
