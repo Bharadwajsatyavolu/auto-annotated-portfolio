@@ -11,17 +11,17 @@
             {
                 "type": "Link",
                 "label": "About Me",
-                "url": "/About Me"
+                "url": "index"
             },
             {
                 "type": "Link",
                 "label": "Education",
-                "url": "/education"
+                "url": "Education"
             },
             {
                 "type": "Link",
                 "label": "Experience",
-                "url": "/Experience"
+                "url": "Experience"
             }
         ],
         "socialLinks": [
