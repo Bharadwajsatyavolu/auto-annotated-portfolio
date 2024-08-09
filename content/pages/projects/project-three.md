@@ -10,7 +10,7 @@ description: >-
   graduation.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/MBA.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
