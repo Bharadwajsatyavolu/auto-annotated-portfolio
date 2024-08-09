@@ -53,7 +53,7 @@
             {
                 "type": "Link",
                 "label": "About Me",
-                "url": "/info",
+                "url": "/About Me",
                 "altText": ""
             },
             {
