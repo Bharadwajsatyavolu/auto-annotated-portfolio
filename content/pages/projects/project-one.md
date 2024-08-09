@@ -4,7 +4,9 @@ title: Certifications
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: Digital marketing and analytics certified from ISB.
+description: >-
+  Digital marketing and analytics certified from ISB, Tableau certified, ISO
+  2000 securities certification  
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
