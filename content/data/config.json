@@ -31,6 +31,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/bharadwaj-satyavolu-1ba61a247/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
