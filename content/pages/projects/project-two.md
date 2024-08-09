@@ -11,10 +11,10 @@ description: >-
   vacuum pump.     
 featuredImage:
   type: ImageBlock
-  url: /images/M.E.png
+  url: /images/mech img.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/mech img.png
   altText: Project image
 ---
