@@ -21,8 +21,7 @@ excerpt: >-
   agricultural sector, facilitating the seamless integration of drone technology
   into existing harvesting practices.•Spearheaded strategic partnerships with
   key stakeholders, fostering collaboration and opening new avenues for business
-  expansion.BHARADWAJ SATYAVOLUMarketing | Analytics• +91 96766 19019 •
-  bharadwajsatyavolu@gmail.com • linkedin.com/in/Bharadwajsatyavolu 
+  expansion.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
