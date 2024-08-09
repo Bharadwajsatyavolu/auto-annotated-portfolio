@@ -14,10 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I am a Management Professional,Mechanical Engineer,Developer,Market
-      Analyst,Digital Marketer,Audio & Visual Content Creator and an
-      Enthusiastic learner living life to absorb as much as possible from the
-      incredible achievements and intelligence of humankind.
+      I am a Management Professional,Mechanical Engineer,Developer,Data Analyst
+      ,Digital Marketer,Audio & Visual Content Creator and an Enthusiastic
+      learner living life to absorb as much as possible from the incredible
+      achievements and intelligence of humankind.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
